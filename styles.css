@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke;
+
+}
+h1,p{
+    text-align: center;
+}
+footer{
+    text-align:center;
+}
+.photo{
+    max-width: 40%;
+    display: block;
+
+    margin: 0 auto;
+}
+footer a{
+   
+    margin: 0 10px;
+    color: rgb(14, 183, 240);
+    
+}
+hover-footer a{
+    text-decoration: none;
+}
